@@ -1,0 +1,9 @@
+{
+  "homepage": "https://raw.githubusercontent.com/dd3xp/UpdateCellaring/refs/heads/main/CellaringUpdate.json",
+  "<mcversion>": {
+    "0.0.0": "First version."
+  },
+  "promos": {
+    "1.12.2-latest": "0.0.0"
+  }
+}
